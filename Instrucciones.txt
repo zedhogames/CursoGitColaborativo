@@ -1,0 +1,10 @@
+git init : Inicia una carpeta vacia en mi proyecto, esta oculta
+
+git status: consulta como se encuentra el proyecto en ese momento 
+
+Carpetas vacias: git no realiza un seguimiento de las carpetas vacias
+
+.gitkeep con ese comnado podemos realizar un seguimiento a la carpeta vacia
+
+.gitignote va a ignorar carpetas o archivos
+
