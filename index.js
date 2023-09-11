@@ -19,7 +19,7 @@ function sumar(){
 
     let resultado = numeroDos + numeroUno;
     
-    console.log('$El resultado es {resultado}');
+    console.log(`El resultado es ${resultado}`);
 
 
 }
