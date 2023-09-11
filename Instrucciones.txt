@@ -8,3 +8,9 @@ Carpetas vacias: git no realiza un seguimiento de las carpetas vacias
 
 .gitignote va a ignorar carpetas o archivos
 
+1- git add "nombre del archivo" || git add . (Para agregar todo)
+
+2- git commit -m "mensaje que queremos enviar"
+
+3- Git push origin master / main
+
